@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 
 function App() {
- const [color , setcolor] = useState('turquoise') ;
+ const [color , setcolor] = useState('white') ;
  
   return (
     <>
